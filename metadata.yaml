@@ -1,0 +1,33 @@
+_repo: The-New-Poetry-An-Anthology_65807
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editors:
+  - agent_name: Henderson, Alice Corbin
+    gutenberg_agent_id: '53507'
+    url: http://www.gutenberg.org/2009/agents/53507
+  - agent_name: Monroe, Harriet
+    birthdate: 1860
+    deathdate: 1936
+    gutenberg_agent_id: '42079'
+    url: http://www.gutenberg.org/2009/agents/42079
+    wikipedia: https://en.wikipedia.org/wiki/Harriet_Monroe
+description: ''
+gutenberg_issued: '2021-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65807'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The New Poetry
+
+  An Anthology'
+url: http://www.gutenberg.org/ebooks/65807
